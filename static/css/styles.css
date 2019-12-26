@@ -37,6 +37,38 @@ body {
     padding-top: 75px;
 }
 
+/*MAX-TEMP*/
+#max-temp {
+    background-size: cover;
+    height: 100%;
+    color:black;
+    padding-top: 75px;
+}
+
+/*HUMIDITY*/
+#humidity {
+    background-size: cover;
+    height: 100%;
+    color:black;
+    padding-top: 75px;
+}
+
+/*CLOUDINESS*/
+#cloudiness {
+    background-size: cover;
+    height: 100%;
+    color:black;
+    padding-top: 75px;
+}
+
+/*WIND-SPEED*/
+#wind-speed {
+    background-size: cover;
+    height: 100%;
+    color:black;
+    padding-top: 75px;
+}
+
 /*DATA*/
 #data {
     background-size: cover;
